@@ -34,10 +34,14 @@ Leave the rest of the default settings as is and click “Launch” to officiall
                                                                
 <img width="1134" alt="Screenshot 2023-05-17 at 07 45 17" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/86d7d4ca-803a-4e81-8c25-c28eec8b7099">
 
+<img width="1003" alt="Screenshot 2023-05-17 at 07 45 41" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/39a2e1a1-8c7a-4a6a-a01a-a251f74051de">
+
 
 Step 2: Connect to the instance via SSH
 
 SSH into the new deployed instance. Your instance window should look like mine
+
+<img width="723" alt="Screenshot 2023-05-17 at 07 48 51" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/2db1ef5b-d0f7-404d-8fe8-0d2d60985f24">
 
 After successfully connecting your local machine to the instance, we need to update the instance before we can go through the process of installing docker.
 Run the following command:
@@ -45,6 +49,9 @@ Run the following command:
 sudo apt-get update
 
 Update screen ✅
+
+
+<img width="727" alt="Screenshot 2023-05-17 at 07 49 29" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/7748c2ef-cc51-4c00-ab4d-e05fd4edba17">
 
 Step 3: Install Docker on instance
 
