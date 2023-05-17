@@ -82,6 +82,10 @@ Run the following command:
 
 sudo apt install docker-compose
 
+
+<img width="694" alt="Screenshot 2023-05-17 at 07 52 03" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/2d35d743-00c3-4a78-b460-71d9aeec3cb7">
+
+
 Step 6: Verify Docker compose installation
 
 Run the following command:
@@ -89,6 +93,8 @@ Run the following command:
 sudo docker-compose --version
 
 docker-compose version ✅
+
+<img width="722" alt="Screenshot 2023-05-17 at 07 52 30" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/e519cfcb-db93-41a5-8557-cd8a2706b517">
 
 Step 7: Create a New Directory for WordPress & Setup Docker Compose
 
