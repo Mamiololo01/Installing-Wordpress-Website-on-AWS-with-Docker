@@ -135,3 +135,5 @@ Follow the prompts to complete the installation
 
 
 Congratulations! You have successfully deployed a WordPress website on AWS using Docker! Be sure to delete all the resources needed to complete this project!!
+
+<img width="1019" alt="Screenshot 2023-05-17 at 08 02 41" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/6c6de4c2-0a13-4d40-a92b-8fcf6deded23">
