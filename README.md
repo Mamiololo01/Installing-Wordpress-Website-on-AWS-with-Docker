@@ -101,9 +101,9 @@ Step 7: Create a New Directory for WordPress & Setup Docker Compose
 We are going to create a new directory for WordPress. The Directory will contain our docker compose YAML file that will be use to contain all the necessary services needed to deploy WordPress.
 Create directory running the command “mkdir wordpress”. Change directory “cd wordpress”.
 
-On the CLI run the command “nano docker-compose.yml” and paste the following code into the YAML file, save and close the file.
+<img width="681" alt="Screenshot 2023-05-17 at 07 55 34" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/0f7fe884-1ffe-4ce5-9e18-cb3934f1a34d">
 
-The code that you see below is just for demonstration purposes. THIS IS NOT REAL PRODUCTION code!!!!
+On the CLI run the command “nano docker-compose.yml” and paste the following code into the YAML file, save and close the file.
 
 Step 8: Start the WordPress Container
 
@@ -113,6 +113,12 @@ sudo docker-compose up -d
 
 
 green is good ✅
+
+
+<img width="735" alt="Screenshot 2023-05-17 at 07 55 51" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/b9246c78-217e-48d8-811e-f19bc90974df">
+
+
+<img width="700" alt="Screenshot 2023-05-17 at 07 56 33" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/ce7e7868-9cf4-498a-94c5-e5a91b4ae20a">
 
 Step 9: Access The WordPress Site
 
