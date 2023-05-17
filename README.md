@@ -128,5 +128,10 @@ You should see the WordPress installation screen. You can now follow the prompts
 
 Follow the prompts to complete the installation
 
+<img width="1272" alt="Screenshot 2023-05-17 at 07 57 22" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/ea5e2a79-e04a-4775-a069-9f0951f13b64">
+
+<img width="1241" alt="Screenshot 2023-05-17 at 07 57 41" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/a5b6451c-c8ba-485e-88d2-cd08b5bf92f0">
+
+
 
 Congratulations! You have successfully deployed a WordPress website on AWS using Docker! Be sure to delete all the resources needed to complete this project!!
