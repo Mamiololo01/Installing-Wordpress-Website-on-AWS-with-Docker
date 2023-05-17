@@ -60,6 +60,8 @@ Run the following command to install docker:
 
 sudo apt-get install docker.io
 
+<img width="746" alt="Screenshot 2023-05-17 at 07 50 40" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/b63d9502-dc0e-4fbb-9c5a-72ac052b0c97">
+
 Step 4: Verify that Docker Successfully Installed
 
 In the previous step we ran the appropriate command to install docker. Let’s verify that the installation was successful.
@@ -68,6 +70,9 @@ Run the following command:
 sudo docker --version 
 
 docker version signifying a successful installation ✅
+
+
+<img width="649" alt="Screenshot 2023-05-17 at 07 51 19" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/9ae1a1ff-9375-4374-8156-42a5759b783f">
 
 Step 5: Install Docker Compose on the instance
 
