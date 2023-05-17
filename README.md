@@ -29,6 +29,13 @@ Create or select a key pair. If you are creating a new pair make sure to downloa
 Open port “22” and “80” to allow traffic to and from the instance. Port 22 will allow us to be able to SSH into the instance.
 Leave the rest of the default settings as is and click “Launch” to officially deploy the instance.
 
+<img width="986" alt="Screenshot 2023-05-17 at 07 44 26" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/1e551820-46e3-4d6c-a633-cbd7156cd48c">
+
+<img width="1152" alt="Screenshot 2023-05-17 at 07 44 45" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/d54efe70-3eb0-4b65-97e3-5b6141
+                                                               
+<img width="1134" alt="Screenshot 2023-05-17 at 07 45 17" src="https://github.com/Mamiololo01/Wordpress_website_AWS_Docker/assets/67044030/86d7d4ca-803a-4e81-8c25-c28eec8b7099">
+745212">
+
 
 Step 2: Connect to the instance via SSH
 
