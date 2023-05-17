@@ -14,7 +14,12 @@ Personal computer
 Desire to learn something new
 OBJECTIVES:
 
-(1.) Launch EC2 instance(Ubuntu) (2.) Connect to instance via SSH (3.) Install Docker on Instance (4.) Verify Docker is properly installed (5) Install Docker Compose Service (6.) Verify Docker compose Service is successfully installed (7.) Create a New Directory for WordPress & Setup Docker Compose File(8.) Start WordPress Container(9.) Access WordPress Site
+(1.) Launch EC2 instance(Ubuntu) 
+(2.) Connect to instance via SSH 
+(3.) Install Docker on Instance 
+(4.) Verify Docker is properly installed 
+(5) Install Docker Compose Service 
+(6.) Verify Docker compose Service is successfully installed (7.) Create a New Directory for WordPress & Setup Docker Compose File(8.) Start WordPress Container(9.) Access WordPress Site
 
 Step 1: Login AWS account and Launch EC2 instance
 
