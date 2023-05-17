@@ -35,6 +35,7 @@ Run the following command:
 sudo apt-get update
 
 Update screen ✅
+
 Step 3: Install Docker on instance
 
 Now that the instance has been successfully updated with all new packages we can now start the docker installation.
@@ -50,6 +51,7 @@ Run the following command:
 sudo docker --version 
 
 docker version signifying a successful installation ✅
+
 Step 5: Install Docker Compose on the instance
 
 Docker compose is a configuration tool use to define, deploy and manage docker containers using a YAML file.
@@ -65,6 +67,7 @@ Run the following command:
 sudo docker-compose --version
 
 docker-compose version ✅
+
 Step 7: Create a New Directory for WordPress & Setup Docker Compose
 
 We are going to create a new directory for WordPress. The Directory will contain our docker compose YAML file that will be use to contain all the necessary services needed to deploy WordPress.
@@ -82,6 +85,7 @@ sudo docker-compose up -d
 
 
 green is good ✅
+
 Step 9: Access The WordPress Site
 
 Navigate back to the instance console, copy and paste your instance public IP address into your web browser address bar. You should see the setup window for WordPress.
